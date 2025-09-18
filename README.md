@@ -8,9 +8,9 @@
 
 ## 📝 Overview
 
-The **JAVA_Programming_Practice** repository contains a variety of Java programs for **practice, logic building, and data structure exercises**.  
-It includes programs on **Data Structures, Strings, Arithmetic, and other logic-based exercises**.  
-Each program is **self-contained**, ready to compile and run independently, making it suitable for **students, beginners, and coding practice**.
+- The **JAVA_Programming_Practice** repository contains a variety of Java programs for **practice, logic building, and data structure exercises**.  
+- It includes programs on **Data Structures, Strings, Arithmetic, and other logic-based exercises**.  
+- Each program is **self-contained**, ready to compile and run independently, making it suitable for **students, beginners, and coding practice**.
 
 ---
 
